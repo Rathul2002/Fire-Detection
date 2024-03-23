@@ -1,0 +1,5 @@
+train: C:\Users\rathu\OneDrive\Desktop\Fire Detection\Data\Train\images
+val: C:\Users\rathu\OneDrive\Desktop\Fire Detection\Data\Valid\images
+
+nc: 1
+names: ['Fire']
