@@ -10,7 +10,7 @@ Fire detection is a critical task in various applications including surveillance
 The custom dataset used for training the model consists of annotated images containing various instances of fires. Additionally, it includes images with diverse backgrounds, lighting conditions, and fire sizes to ensure robustness of the trained model.
 
 # Libraries Used:
-OpenCv
-Numpy
-ultralytics
-winsound
+- OpenCv
+- Numpy
+- ultralytics
+- winsound
